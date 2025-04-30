@@ -1,0 +1,42 @@
+body{ 
+background-color: #415a77;
+font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.contenedor{
+    background-color: #778da9;
+    height: 1600px;
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 20px;
+    padding-top: 20px;
+}
+
+
+h3{
+    color: #415a77;
+}
+
+
+.titulo{
+    background-color: aqua;
+    color: #415a77;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.info{
+    background-color: #e0e1dd;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.foto{
+    margin: 0 auto;
+    border-radius: 20px;
+}
